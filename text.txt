@@ -1,0 +1,5 @@
+Port: 5901    VM : i-3-20-VM
+Port: 5904    VM : i-36-45-VM
+Port: 5903    VM : r-39-VM
+Port: 5902    VM : s-37-VM
+Port: 5900    VM : v-40-VM
